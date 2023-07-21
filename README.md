@@ -10,3 +10,22 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Still thinking about an interesting fun fact!
 
+## Portfolio
+
+Here's a list of the skills I have and the courses I've completed to gain those skills:
+
+### Skills
+
+- Document layout
+- Task automation
+- VBA
+- XML DocBook
+- Mnemonic keyboard shortcuts
+- GitHub (in progress)
+
+### Courses
+
+- [Introduction to GitHub - GitHub Learning Lab](https://github.com/skills/introduction-to-github) (Completed on July 17, 2023)
+- [Communicating using Markdown - GitHub Learning Lab](https://github.com/skills/communicating-using-markdown) (Completed on July 18, 2023)
+
+I'll keep updating this list as I continue my learning journey. Stay tuned!
