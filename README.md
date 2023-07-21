@@ -26,7 +26,10 @@ Here's a list of the skills I have and the courses I've completed to gain those 
 ### Courses
 
 - [Introduction to GitHub - GitHub Skills](https://github.com/skills/introduction-to-github) (Completed on July 17, 2023)
+  ![Introduction to GitHub Course Completion](https://github.com/ErnestVidal1/images/blob/main/skills-introduction-to-github-certificate.png)
 - [Communicate using Markdown - GitHub Skills](https://github.com/skills/communicate-using-markdown) (Completed on July 18, 2023)
+  ![Communicate using Markdown Course Completion](https://github.com/ErnestVidal1/images/blob/main/skills-communicate-using-markdown-certificate.png)
 - [GitHub Pages - GitHub Skills](https://github.com/skills/github-pages) (Completed on July 19, 2023)
+  ![GitHub Pages Course Completion](https://github.com/ErnestVidal1/images/blob/main/skills-github-pages.png)
 
 I'll keep updating this list as I continue my learning journey. Stay tuned!
