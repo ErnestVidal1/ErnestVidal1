@@ -10,6 +10,8 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Still thinking about an interesting fun fact!
 
+**Note:** All links in this document will open in the same tab. If you prefer to open them in a new tab, you can right-click and select "Open link in a new tab" or "Open link in a new window".
+
 ## Portfolio
 
 Here's a list of the skills I have and the courses I've completed to gain those skills:
