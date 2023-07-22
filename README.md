@@ -25,10 +25,10 @@ Here's a list of the skills I have and the courses I've completed to gain those 
 
 ### Courses
 
-- [Introduction to GitHub - GitHub Skills](https://github.com/skills/introduction-to-github) (Completed on July 17, 2023) [View Completion Screenshot](https://raw.githubusercontent.com/ErnestVidal1/images/main/skills-introduction-to-github-certificate.png)
+- [Introduction to GitHub - GitHub Skills](https://github.com/skills/introduction-to-github) (Completed on July 17, 2023) View [Completion Screenshot](https://raw.githubusercontent.com/ErnestVidal1/images/main/skills-introduction-to-github-certificate.png)
 
-- [Communicate using Markdown - GitHub Skills](https://github.com/skills/communicate-using-markdown) (Completed on July 18, 2023) [View Completion Screenshot](https://raw.githubusercontent.com/ErnestVidal1/images/main/skills-communicate-using-markdown-certificate.png)
+- [Communicate using Markdown - GitHub Skills](https://github.com/skills/communicate-using-markdown) (Completed on July 18, 2023) View [Completion Screenshot](https://raw.githubusercontent.com/ErnestVidal1/images/main/skills-communicate-using-markdown-certificate.png)
 
-- [GitHub Pages - GitHub Skills](https://github.com/skills/github-pages) (Completed on July 19, 2023) [View Completion Screenshot](https://raw.githubusercontent.com/ErnestVidal1/images/main/skills-github-pages-certificate.png)
+- [GitHub Pages - GitHub Skills](https://github.com/skills/github-pages) (Completed on July 19, 2023) View [Completion Screenshot](https://raw.githubusercontent.com/ErnestVidal1/images/main/skills-github-pages-certificate.png)
   
 I'll keep updating this list as I continue my learning journey. Stay tuned!
