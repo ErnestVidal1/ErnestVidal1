@@ -55,7 +55,7 @@ In my journey as a software developer specialized in document design and automat
 - Style Application
 - Typographical Adjustments
 
-  🛠️ **GPT-Powered Real-Time VBA Formatting Accelerator**: Enhances real-time document           formatting by dynamically automating repetitive tasks. Uses VBA, AutoHotkey (AHK), and        GPT. Offers a unique, ergonomic, and rapid workflow tailored for real-time formatting         needs. Status: Ready.
+🛠️ **GPT-Powered Real-Time VBA Formatting Accelerator**: Enhances real-time document formatting by dynamically automating repetitive tasks. Uses VBA, AutoHotkey (AHK), and GPT. Offers a unique, ergonomic, and rapid workflow tailored for real-time formatting needs. Status: Ready.
 
 ### PHASE 4: Word to XML Conversion (If applicable)
 
