@@ -42,30 +42,27 @@ In my journey as a software developer specialized in document design and automat
 - Template Creation in XML (DocBook+XSLT)
 
 ### PHASE 2: Document Preparation
-- Preparation and Cleanup
-- Element Extraction (e.g., Images, Tables, Formulas, Code)
-- Structure Verification
-- Term Standardization
+Preparation and Cleanup. Element Extraction (e.g., Images, Tables, Formulas, Code). Structure Verification. Term Standardization.
+
+- 🛠️ **Document Structure Optimizer:** Automates the structuring of documents by applying uniform title styles, hierarchical bookmarks, and list tags. Recognizes and stylizes unformatted titles, inserts bookmarks like 'unit' and 'subunit' between hierarchical titles, and management of list markers and manual list numbering. Utilizes VBA to make this task efficient and accurate. Designed for comprehensive document structuring from the ground up. Status: Ready.
 
 ### PHASE 3: Document Formatting
-- Style Application
-- Typographical Adjustments
+Style Application. Typographical Adjustments.
+- 🛠️ **GPT-Powered Real-Time VBA Formatting Accelerator:** Enhances real-time document formatting by dynamically automating repetitive tasks. Enables rapid development of VBA macros for automated format replacements and style applications. Uses VBA, AutoHotkey (AHK), and GPT. Offers a unique, ergonomic, and rapid workflow tailored for real-time formatting needs. Status: Ready.
 
-### PHASE 3: Document Formatting
-- Style Application
-- Typographical Adjustments
-
-  🛠️ **GPT-Powered Real-Time VBA Formatting Accelerator**: Enhances real-time document           formatting by dynamically automating repetitive tasks. Uses VBA, AutoHotkey (AHK), and        GPT. Offers a unique, ergonomic, and rapid workflow tailored for real-time formatting         needs. Status: Ready.
-
-### PHASE 4: Word to XML Conversion (If applicable)
+### PHASE 4: Word to XML DocBook Conversion (If applicable)
+Word-to-XML DocBook Transformations. Custom Tagging.
+- 🛠️ **VBA-XSLT Word Style to Tag Converter**: Automates the conversion of Word documents with template-specific styles to XML documents with DocBook tags. Utilizes VBA, Java, and XSLT. Robust and efficient transformations. Status: Ready.
+- 🛠️ **XSLT Multi-Format Output Generator**: Automates the conversion of DocBook XML to multiple output formats, including HTML and PDF. Utilizes XSLT, Java, and DocBook. Designed for flexible and efficient multi-format publishing. Status: Ready.
 
 ### PHASE 5: Output Design and Format Review
 - Review of PDF Converted from Word
 - Review of Other Multi-format Outputs (e.g., HTML, EBOOK, Audiobook) (If using XML DocBook)
 
 ### PHASE 6: Incorporation of Author's Revisions
-- Preparation of Amendments (e.g., Images, Text, including long fragments)
-- Amendment Introduction (from PDF comments or location-based text doc)
+Preparation of Amendments (e.g., Images, Text, including long fragments). Amendment Introduction (from PDF comments or location-based text doc).
+- 🛠️ **AHK PDF-to-XML Jump & Tag Generator**: Designed to expedite the manual transfer of author's comments from PDFs into master XML DocBook files. Utilizes AutoHotkey to allow users to "jump" from a phrase near a highlighted comment area in the PDF directly to the corresponding point in the XML file. Additionally, generates complex XML tags with a single keyboard shortcut. Greatly simplifies the task of applying PDF comments to the master XML file. Status: Ready.
+- 🛠️ **Java/AcroJS PDF Comment to Master File Integrator**: Automates the process of incorporating author's corrections, given in PDF comments, back into the master editable file (Word, DocBook, etc.) from which the PDF was generated. Utilizes PDFBox in Java and Acrobat JavaScript (AcroJS) to make this task efficient and accurate. Greatly reduces manual work, especially for documents with a high volume of corrections. Status: In Development.
 
 ### PHASE 7: Post-Conversion Adjustments
 - Applicable in cases like PDF to Word conversion (e.g., for translations)
