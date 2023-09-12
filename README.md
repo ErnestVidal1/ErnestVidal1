@@ -61,8 +61,9 @@ Word-to-XML DocBook Transformations. Custom Tagging.
 - Review of Other Multi-format Outputs (e.g., HTML, EBOOK, Audiobook) (If using XML DocBook)
 
 ### PHASE 6: Incorporation of Author's Revisions
-Preparation of Amendments (e.g., Images, Text, including long fragments). Amendment Introduction (from PDF comments or location-based text doc)
-- 🛠️ **Java/AcroJS PDF Comment to Master File Integrator**: Automates the process of incorporating author's corrections, given in PDF comments, back into the master editable file (Word, DocBook, etc.) from which the PDF was generated. Utilizes PDFBox in Java and Acrobat JavaScript (AcroJS) to make this task efficient and accurate. Greatly reduces manual work, especially for documents with a high volume of corrections. Status: Ready.
+Preparation of Amendments (e.g., Images, Text, including long fragments). Amendment Introduction (from PDF comments or location-based text doc).
+- 🛠️ **AHK PDF-to-XML Jump & Tag Generator**: Designed to expedite the manual transfer of author's comments from PDFs into master XML DocBook files. Utilizes AutoHotkey to allow users to "jump" from a phrase near a highlighted comment area in the PDF directly to the corresponding point in the XML file. Additionally, generates complex XML tags with a single keyboard shortcut. Greatly simplifies the task of applying PDF comments to the master XML file. Status: Ready.
+- 🛠️ **Java/AcroJS PDF Comment to Master File Integrator**: Automates the process of incorporating author's corrections, given in PDF comments, back into the master editable file (Word, DocBook, etc.) from which the PDF was generated. Utilizes PDFBox in Java and Acrobat JavaScript (AcroJS) to make this task efficient and accurate. Greatly reduces manual work, especially for documents with a high volume of corrections. Status: In Development.
 
 ### PHASE 7: Post-Conversion Adjustments
 - Applicable in cases like PDF to Word conversion (e.g., for translations)
