@@ -12,11 +12,9 @@
 
 **Note:** All links in this document will open in the same tab. If you prefer to open them in a new tab, you can right-click and select "Open link in a new tab" or "Open link in a new window".
 
-## Portfolio
+Next, you'll find an overview of the skills I've acquired, the courses I've completed to gain those skills, and the professional projects I've worked on.
 
-Here's a list of the skills I have and the courses I've completed to gain those skills:
-
-### Skills
+## Skills
 
 - Document layout
 - Task automation
@@ -25,7 +23,7 @@ Here's a list of the skills I have and the courses I've completed to gain those 
 - Mnemonic keyboard shortcuts
 - GitHub (in progress)
 
-### Courses
+## Courses
 
 - [Introduction to GitHub - GitHub Skills](https://github.com/skills/introduction-to-github) (Completed on July 17, 2023) [View [My Repo](https://github.com/ErnestVidal1/skills-github-intro-course)]  [View [Completion Screenshot](https://raw.githubusercontent.com/ErnestVidal1/images/main/skills-introduction-to-github-certificate.png)]
 
@@ -33,4 +31,45 @@ Here's a list of the skills I have and the courses I've completed to gain those 
 
 - [GitHub Pages - GitHub Skills](https://github.com/skills/github-pages) (Completed on July 19, 2023) [View [My Repo](https://github.com/ErnestVidal1/skills-github-pages)]  [View [Completion Screenshot](https://raw.githubusercontent.com/ErnestVidal1/images/main/skills-github-pages-certificate.png)]
   
-I'll keep updating this list as I continue my learning journey. Stay tuned!
+
+## Professional Projects
+
+In my journey as a software developer specialized in document design and automation, the projects I've undertaken can be grouped into several phases. Each phase corresponds to a crucial stage in the document editing and layout workflow. Here they are:
+
+### PHASE 1: Template Design
+- Original Template Creation in Word
+- Cloning Template from a model PDF in Word
+- Template Creation in XML (DocBook+XSLT)
+
+### PHASE 2: Document Preparation
+- Preparation and Cleanup
+- Element Extraction (e.g., Images, Tables, Formulas, Code)
+- Structure Verification
+- Term Standardization
+
+### PHASE 3: Document Formatting
+- Style Application
+- Typographical Adjustments
+
+#### GPT-Powered Real-Time VBA Formatting Accelerator
+- **Functionality**: Enhances real-time document formatting by dynamically automating repetitive tasks, allowing for agile adjustments during live editing.
+- **Technology Used**: VBA, AutoHotkey (AHK), GPT.
+- **Unique Feature**: Seamlessly integrates GPT-powered suggestions and VBA macros in an ergonomic and rapid workflow, tailored for real-time formatting needs.
+- **Status**: Ready.
+
+### PHASE 4: Word to XML Conversion (If applicable)
+
+### PHASE 5: Output Design and Format Review
+- Review of PDF Converted from Word
+- Review of Other Multi-format Outputs (e.g., HTML, EBOOK, Audiobook) (If using XML DocBook)
+
+### PHASE 6: Incorporation of Author's Revisions
+- Preparation of Amendments (e.g., Images, Text, including long fragments)
+- Amendment Introduction (from PDF comments or location-based text doc)
+
+### PHASE 7: Post-Conversion Adjustments
+- Applicable in cases like PDF to Word conversion (e.g., for translations)
+
+### PHASE 8: Miscellaneous (Logistics, Management)
+
+This list is not exhaustive and serves as a snapshot of the software tools that are either complete or in stages of active development.
