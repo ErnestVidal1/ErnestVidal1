@@ -53,7 +53,7 @@ In my journey as a software developer specialized in document design and automat
 
 ----------------------------------------
 
-#### GPT-Powered Real-Time VBA Formatting Accelerator
+#### 🌟 GPT-POWERED REAL-TIME VBA FORMATTING ACCELERATOR
 
 **Functionality**: Enhances real-time document formatting by dynamically automating repetitive tasks, allowing for agile adjustments during live editing.  
 **Technology Used**: VBA, AutoHotkey (AHK), GPT.  
