@@ -34,7 +34,7 @@ Next, you'll find an overview of the skills I've acquired, the courses I've comp
 
 ## 🌟 Professional Projects by Editorial Phases 🌟
 
-**In my journey as a software developer specialized in document design and automation, the projects I've undertaken can be grouped into several phases. Each phase corresponds to a crucial stage in the document editing and layout workflow. Here they are:****
+**In my journey as a software developer specialized in document design and automation, the projects I've undertaken can be grouped into several phases. Each phase corresponds to a crucial stage in the document editing and layout workflow. Here they are:**
 
 ### PHASE 1: Template Design
 - Original Template Creation in Word
@@ -43,8 +43,7 @@ Next, you'll find an overview of the skills I've acquired, the courses I've comp
 
 ### PHASE 2: Document Preparation
 Preparation and Cleanup. Element Extraction (e.g., Images, Tables, Formulas, Code). Structure Verification. Term Standardization.
-
-- 🛠️ **Document Structure Optimizer:** Automates the structuring of documents by applying uniform title styles, hierarchical bookmarks, and list tags. Recognizes and stylizes unformatted titles, inserts bookmarks like 'unit' and 'subunit' between hierarchical titles, and management of list markers and manual list numbering. Utilizes VBA to make this task efficient and accurate. Designed for comprehensive document structuring from the ground up. Status: Ready.
+- 🛠️ **VBA Document Structure Optimizer**: Standardizes document structure by stylizing unformatted titles, inserting hierarchical bookmarks like 'unit' and 'subunit', and managing list markers and manual list numbering. Status: Ready.
 
 ### PHASE 3: Document Formatting
 Style Application. Typographical Adjustments.
