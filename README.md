@@ -47,7 +47,7 @@ Preparation and Cleanup. Element Extraction (e.g., Images, Tables, Formulas, Cod
 
 ### PHASE 3: Document Formatting
 Style Application. Typographical Adjustments.
-- 🛠️ **GPT-Powered Real-Time VBA Formatting Accelerator:** Enhances real-time document formatting by dynamically automating repetitive tasks. Enables rapid development of VBA macros for automated format replacements and style applications. Uses VBA, AutoHotkey (AHK), and GPT. Offers a unique, ergonomic, and rapid workflow tailored for real-time formatting needs. Status: Ready.
+- 🛠️ **GPT-AHK-VBA Real-Time Formatter**: Automates repetitive formatting tasks for real-time needs. Enables quick VBA macro development for style applications. Designed for ergonomic and rapid workflow. Status: Ready.
 
 ### PHASE 4: Word to XML DocBook Conversion (If applicable)
 Word-to-XML DocBook Transformations. Custom Tagging.
@@ -60,8 +60,8 @@ Word-to-XML DocBook Transformations. Custom Tagging.
 
 ### PHASE 6: Incorporation of Author's Revisions
 Preparation of Amendments (e.g., Images, Text, including long fragments). Amendment Introduction (from PDF comments or location-based text doc).
-- 🛠️ **AHK PDF-to-XML Jump & Tag Generator**: Designed to expedite the manual transfer of author's comments from PDFs into master XML DocBook files. Utilizes AutoHotkey to allow users to "jump" from a phrase near a highlighted comment area in the PDF directly to the corresponding point in the XML file. Additionally, generates complex XML tags with a single keyboard shortcut. Greatly simplifies the task of applying PDF comments to the master XML file. Status: Ready.
-- 🛠️ **Java/AcroJS PDF Comment to Master File Integrator**: Automates the process of incorporating author's corrections, given in PDF comments, back into the master editable file (Word, DocBook, etc.) from which the PDF was generated. Utilizes PDFBox in Java and Acrobat JavaScript (AcroJS) to make this task efficient and accurate. Greatly reduces manual work, especially for documents with a high volume of corrections. Status: In Development.
+- 🛠️ **AHK PDF-to-XML Jump & Tag Generator**: Streamlines the transfer of author's comments from PDFs to XML DocBook files. Enables "jump" functionality to go from a phrase near a highlighted comment area in the PDF directly to the corresponding point in the XML file, and one-click complex XML tagging. Simplifies comment application to master files. Status: Ready.
+- 🛠️ **Java/AcroJS Comment Integrator**: Automates the inclusion of PDF comments into master files like Word and DocBook. Efficiently handles high-volume corrections. Status: In Development.
 
 ### PHASE 7: Post-Conversion Adjustments
 - Applicable in cases like PDF to Word conversion (e.g., for translations)
