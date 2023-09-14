@@ -36,7 +36,7 @@ Next, you'll find an overview of the skills I've acquired, the courses I've comp
 
 In my journey as a software developer specialized in document design and automation, the projects I've undertaken can be grouped into several phases. Each phase corresponds to a crucial stage in the document editing and layout workflow. Here they are:
 
-### PHASE 1: Template Design
+#### PHASE 1: Template Design
 - Original Template Creation in Word
 - Cloning Template from a model PDF in Word
 - Template Creation in XML (DocBook+XSLT)
