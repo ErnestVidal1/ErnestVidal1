@@ -45,13 +45,13 @@ Next, you'll find an overview of the skills I've acquired, the courses I've comp
 ***🚀 PHASE 2: Document Preparation**: Preparation and Cleanup. Element Extraction (e.g., Images, Tables, Formulas, Code). Structure Verification. Term Standardization.*
 ### 🟠 Status In Development. VBA DOCUMENT CLEANER
 Automates the cleaning of Word documents by removing excess markers, blank lines, and double spaces. Also standardizes fonts and styles for a cleaner, more unified text.
-### 🟢 Status Ready. VBA DOCUMENT ELEMENT EXTRACTOR
-Automates the extraction of key elements like images, tables, equations, and source code from Word docs into separate files. Useful for collaboration and generating text-only docs.
-### 🟠 Status In Development. VBA ELEMENT OPTIMIZER
-Enhances the VBA Document Element Extractor by adding post-extraction features. Includes OCR for images, Word-to-MathML equation conversion, and table styling.
-### 🟢 Status Ready. VBA DOCUMENT STRUCTURE OPTIMIZER
+### 🟢 Status Ready. VBA DOCUMENT COMPONENTS EXTRACTOR
+Automates the extraction of key components like images, tables, equations, and source code from Word docs into separate files. Useful for collaboration and generating text-only docs.
+### 🟠 Status In Development. VBA DOCUMENT COMPONENTS DIGITIZER & CONVERTER
+Enhances the VBA Document Components Extractor by adding post-extraction features. Includes OCR for images, Word-to-MathML equation conversion, and table styling.
+### 🟢 Status Ready. VBA DOCUMENT STRUCTURE PROCESSOR
 Standardizes document structure by stylizing unformatted titles, inserting hierarchical bookmarks like 'unit' and 'subunit', and managing list markers and manual list numbering. 
-### 🟠 Status In Development. **VBA TERM STANDARDIZER**
+### 🟠 Status In Development. VBA TERM STANDARDIZER
 Automatically standardizes terminology across the document. For instance, it replaces "chapter" with "module" or "pupil" with "student."
 <br><br>
 
@@ -67,11 +67,11 @@ Working on unifying these ready-to-use scripts into a single, user-friendly inte
 
 
 ***🚀 PHASE 4: Word to XML DocBook Conversion (If applicable)**: Word-to-XML DocBook Transformations. Custom Tagging.*
-### 🟢 Status Ready.️ VBA-JAVA-XSLT WORD STYLE TO TAG CONVERTER
+### 🟢 Status Ready.️ VBA-JAVA-XSLT WORD-STYLE TO XML-ELEMENT TRANSFORMER
 Automates the conversion of Word documents with template-specific styles to XML documents with DocBook tags. Robust and efficient transformations.
 ### 🟢 Status Ready.️ XSLT-JAVA-DOCBOOK MULTI-FORMAT OUTPUT GENERATOR
 Automates the conversion of DocBook XML to multiple output formats, including HTML and PDF. Designed for flexible and efficient multi-format publishing.
-### 🟢 Status Ready.️ AHK XML MULTI-LAYER TAG GENERATOR
+### 🟢 Status Ready.️ AHK NESTED XML TAG GENERATOR
 Facilitates the creation of complex, multi-layered XML tags with a single shortcut. Ideal for quickly embedding structures like examples, links, and paragraphs.
 <br><br>
 
@@ -81,9 +81,9 @@ Facilitates the creation of complex, multi-layered XML tags with a single shortc
 
 
 ***🚀 PHASE 6: Incorporation of Author's Revisions**: Preparation of Amendments (e.g., Images, Text, including long fragments). Amendment Introduction (from PDF comments or location-based text doc).*
-###  🟢 Status Ready.️ AHK PDF-TO-MASTER DOCUMENT JUMP
-Transfers comments from PDFs to their original editable files like Word and DocBook. Enables a "jump" feature to move from a comment's nearby phrase in the PDF to the corresponding context in the XML.
-###  🟠 Status In Development. JAVA-ACROJS COMMENT INTEGRATOR
+###  🟢 Status Ready.️ AHK PDF-TO-MASTER DOCUMENT JUMPER
+Helps to transfer comments from PDFs to their original editable files like Word and DocBook. Enables a "jump" feature to move from a comment's nearby phrase in the PDF to the corresponding context in the XML.
+###  🟠 Status In Development. JAVA-ACROJS AUTOMATED PDF-COMMENTS-TO-MASTER-DOCUMENT INSERTER
 An automated upgrade of the previous tool. Navigates to exact highlighted areas for batch processing. 
 <br><br>
 
@@ -92,7 +92,7 @@ An automated upgrade of the previous tool. Navigates to exact highlighted areas 
 ###  🟢 Status Ready. AHK TABLEFIXER
 Automates table reformatting in Word documents post-PDF conversion. Features include row and column pattern analysis and colspan adjustments via keyboard shortcuts.
 
-###  🟠 Status In Development. VBA-GPT PDF-TO-WORD FORMATTING WIZARD
+###  🟠 Status In Development. VBA-GPT POST-CONVERSION PDF-TO-WORD REFORMATTING WIZARD
 Leverages VBA and intermittent GPT guidance to auto-correct layout and typographical errors in Word documents converted from PDFs.
 <br><br><br>
 *This list is not exhaustive and serves as a snapshot of the software tools that are either complete or in stages of active development.*
