@@ -53,7 +53,6 @@ Enhances the VBA Document Components Extractor by adding post-extraction feature
 Standardizes document structure by stylizing unformatted titles, inserting hierarchical bookmarks like 'unit' and 'subunit', and managing list markers and manual list numbering. 
 ### 🟠 Status In Development. VBA TERM STANDARDIZER
 Automatically standardizes terminology across the document. For instance, it replaces "chapter" with "module" or "pupil" with "student". [GitHub Repository](https://github.com/ErnestVidal1/VBA-TermStandardizer)
-
 <br><br>
 
 
@@ -64,7 +63,6 @@ Automates repetitive formatting tasks for real-time needs. Enables quick VBA mac
 Multiple standalone VBA scripts are available for specific formatting tasks such as author name bolding in the bibliography, footnote adjustments, hyperlink text conversion, citation styling, and more. Ideal for targeted document formatting needs.
 ### 🟠 Status In Development. VBA DOCUMENT FORMATTING ASSISTANT
 Working on unifying these ready-to-use scripts into a single, user-friendly interface. This integrated solution will streamline document formatting workflows for increased efficiency and convenience. [GitHub Repository](https://github.com/ErnestVidal1/VBA-DocFormattingAssistant)
-
 <br><br>
 
 
@@ -87,7 +85,6 @@ Facilitates the creation of complex, multi-layered XML tags with a single shortc
 Helps to transfer comments from PDFs to their original editable files like Word and DocBook. Enables a "jump" feature to move from a comment's nearby phrase in the PDF to the corresponding context in the XML.
 ###  🟠 Status In Development. JAVA-ACROJS AUTOMATED PDF-COMMENTS-TO-MASTER-DOCUMENT INSERTER
 An automated upgrade of the previous tool. Navigates to exact highlighted areas for batch processing. [GitHub Repository](https://github.com/ErnestVidal1/JavaAcroJS-PDFtoMasterDocInserter)
-
 <br><br>
 
 
