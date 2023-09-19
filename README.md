@@ -30,7 +30,9 @@ Next, you'll find an overview of the skills I've acquired, the courses I've comp
 - [Communicate using Markdown - GitHub Skills](https://github.com/skills/communicate-using-markdown) (Completed on July 18, 2023) [View [My Repo](https://github.com/ErnestVidal1/skills-communicate-using-markdown)]  [View [Completion Screenshot](https://raw.githubusercontent.com/ErnestVidal1/images/main/skills-communicate-using-markdown-certificate.png)]
 
 - [GitHub Pages - GitHub Skills](https://github.com/skills/github-pages) (Completed on July 19, 2023) [View [My Repo](https://github.com/ErnestVidal1/skills-github-pages)]  [View [Completion Screenshot](https://raw.githubusercontent.com/ErnestVidal1/images/main/skills-github-pages-certificate.png)]
-  
+
+- [Automate the Boring Stuff with Python Programming - Udemy](https://www.udemy.com/course/automate/) (Completed on August 28, 2023) [View [My Repo](https://github.com/ErnestVidal1/Course-Udemy-AutomateBoringPython)]  [View [Certificate](https://www.udemy.com/certificate/UC-79655e6a-f0f2-4236-8aa7-f0d95ebfc224/)]
+
 
 ## 🌟 Professional Projects by Editorial Phases 🌟
 
