@@ -48,15 +48,15 @@ Next, you'll find an overview of the skills I've acquired, the courses I've comp
 
 ***🚀 PHASE 2: Document Preparation**: Preparation and Cleanup. Element Extraction (e.g., Images, Tables, Formulas, Code). Structure Verification. Term Standardization.*
 ### 🟠 Status In Development. VBA DOCUMENT CLEANER
-Automates the cleaning of Word documents by removing excess markers, blank lines, and double spaces. Also standardizes fonts and styles for a cleaner, more unified text. [GitHub Repository](https://github.com/ErnestVidal1/VBA-DocCleaner)
+Automates the cleaning of Word documents by removing excess markers, blank lines, and double spaces. Also standardizes fonts and styles for a cleaner, more unified text.
 ### 🟢 Status Ready. VBA DOCUMENT COMPONENTS EXTRACTOR
 Automates the extraction of key components like images, tables, equations, and source code from Word docs into separate files. Useful for collaboration and generating text-only docs.
 ### 🟠 Status In Development. VBA DOCUMENT COMPONENTS DIGITIZER & CONVERTER
-Enhances the VBA Document Components Extractor by adding post-extraction features. Includes OCR for images, Word-to-MathML equation conversion, and table styling. [GitHub Repository](https://github.com/ErnestVidal1/VBA-DocComponentDigitizerConverter)
+Enhances the VBA Document Components Extractor by adding post-extraction features. Includes OCR for images, Word-to-MathML equation conversion, and table styling.
 ### 🟢 Status Ready. VBA DOCUMENT STRUCTURE PROCESSOR
 Standardizes document structure by stylizing unformatted titles, inserting hierarchical bookmarks like 'unit' and 'subunit', and managing list markers and manual list numbering. 
 ### 🟠 Status In Development. VBA TERM STANDARDIZER
-Automatically standardizes terminology across the document. For instance, it replaces "chapter" with "module" or "pupil" with "student". [GitHub Repository](https://github.com/ErnestVidal1/VBA-TermStandardizer)
+Automatically standardizes terminology across the document. For instance, it replaces "chapter" with "module" or "pupil" with "student".
 <br><br>
 
 
@@ -66,7 +66,7 @@ Automates repetitive formatting tasks for real-time needs. Enables quick VBA mac
 ### 🟢 Status Ready.️ VBA SCRIPTS FOR INDIVIDUAL FORMATTING TASKS
 Multiple standalone VBA scripts are available for specific formatting tasks such as author name bolding in the bibliography, footnote adjustments, hyperlink text conversion, citation styling, and more. Ideal for targeted document formatting needs.
 ### 🟠 Status In Development. VBA DOCUMENT FORMATTING ASSISTANT
-Working on unifying these ready-to-use scripts into a single, user-friendly interface. This integrated solution will streamline document formatting workflows for increased efficiency and convenience. [GitHub Repository](https://github.com/ErnestVidal1/VBA-DocFormattingAssistant)
+Working on unifying these ready-to-use scripts into a single, user-friendly interface. This integrated solution will streamline document formatting workflows for increased efficiency and convenience.
 <br><br>
 
 
@@ -88,7 +88,7 @@ Facilitates the creation of complex, multi-layered XML tags with a single shortc
 ###  🟢 Status Ready.️ AHK PDF-TO-MASTER DOCUMENT JUMPER
 Helps to transfer comments from PDFs to their original editable files like Word and DocBook. Enables a "jump" feature to move from a comment's nearby phrase in the PDF to the corresponding context in the XML.
 ###  🟠 Status In Development. JAVA-ACROJS AUTOMATED PDF-COMMENTS-TO-MASTER-DOCUMENT INSERTER
-An automated upgrade of the previous tool. Navigates to exact highlighted areas for batch processing. [GitHub Repository](https://github.com/ErnestVidal1/JavaAcroJS-PDFtoMasterDocInserter)
+An automated upgrade of the previous tool. Navigates to exact highlighted areas for batch processing.
 <br><br>
 
 
@@ -97,7 +97,7 @@ An automated upgrade of the previous tool. Navigates to exact highlighted areas 
 Automates table reformatting in Word documents post-PDF conversion. Features include row and column pattern analysis and colspan adjustments via keyboard shortcuts.
 
 ###  🟠 Status In Development. VBA-GPT POST-CONVERSION PDF-TO-WORD REFORMATTING WIZARD
-Leverages VBA and intermittent GPT guidance to auto-correct layout and typographical errors in Word documents converted from PDFs. [GitHub Repository](https://github.com/ErnestVidal1/VBA-GPT-PDFtoWordPostConversion)
+Leverages VBA and intermittent GPT guidance to auto-correct layout and typographical errors in Word documents converted from PDFs.
 
 <br><br><br>
 *This list is not exhaustive and serves as a snapshot of the software tools that are either complete or in stages of active development.*
