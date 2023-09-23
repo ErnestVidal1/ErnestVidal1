@@ -36,7 +36,9 @@ Next, you'll find an overview of the skills I've acquired, the courses I've comp
 
 ## 🌟 Professional Projects by Editorial Phases 🌟
 
-**In my journey as a software developer specialized in document design and automation, the projects I've undertaken can be grouped into several phases. Each phase corresponds to a crucial stage in the document editing and layout workflow. Here they are:**
+**In my journey as a software developer specialized in document design and automation, focusing mainly on Word, XML DocBook, and PDF, I've prioritized projects in layout design. To safeguard their strategic importance and confidentiality for my professional commitments and business, these are kept private. Nevertheless, I’m devoted to fostering a collaborative and knowledge-sharing environment within the GitHub community. I plan to explore sharing insights and tools in areas tangentially related or not directly centered on layout, such as authorship, language and translation, graphics, and management. This could include applications like Excel, Google Docs, InDesign, LibreOffice, developments in SAP and SAP Crystal Reports, along with Agile and Scrum methodologies adapted for editing projects, as time allows.**
+
+**The projects I've undertaken can be grouped into several phases. Each phase corresponds to a crucial stage in the document editing and layout workflow. Here they are:**
 <br><br>
 
 
